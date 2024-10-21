@@ -2,6 +2,13 @@
 //  MeshActivityAttributes.swift
 //  Meshtastic
 //
+//  Created by Jefferson Ding on 2024-10-21.
+//
+
+//
+//  MeshActivityAttributes.swift
+//  Meshtastic
+//
 //  Created by Garth Vander Houwen on 3/1/23.
 //
 
